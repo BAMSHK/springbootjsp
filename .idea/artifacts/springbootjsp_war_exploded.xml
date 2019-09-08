@@ -79,6 +79,8 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-orm:5.1.9.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.1.9.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aspects:5.1.9.RELEASE" />
+          <element id="library" level="project" name="Maven: com.github.pagehelper:pagehelper:4.1.6" />
+          <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:0.9.5" />
         </element>
       </element>
       <element id="directory" name="META-INF">
